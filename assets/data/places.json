@@ -1,0 +1,112 @@
+[
+  {
+    "name": "신평동 동매산",
+    "slug": "dongmaesan",
+    "district": "사하구 신평동/구평동",
+    "category": "산악 계곡",
+    "tags": ["형무소 연계"],
+    "coords": [35.0789, 128.9878],
+    "summary": "부산형무소 수감자 다수가 희생된 것으로 조사됨.",
+    "description_html": "<p>세부 서사를 여기에 입력.</p>",
+    "sources": ["진실·화해위원회 부산·경남지역 형무소 재소자 희생 사건(1기)", "부산역사문화대전 동매산 관련 항목"]
+  },
+  {
+    "name": "암남동 혈청소 인근 해상",
+    "slug": "amnyeom-sea",
+    "district": "서구 암남동",
+    "category": "해상",
+    "tags": ["해상 수장"],
+    "coords": [35.0699, 129.0123],
+    "summary": "해상 수장 증언과 기록이 전함.",
+    "description_html": "<p>세부 서사를 여기에 입력.</p>",
+    "sources": ["부산 지역 보도연맹 관련 기록"]
+  },
+  {
+    "name": "동삼동 미니공원",
+    "slug": "dongsam-mini-park",
+    "district": "영도구 동삼동",
+    "category": "도심",
+    "tags": [],
+    "coords": [35.0692, 129.0742],
+    "summary": "6·25 전쟁기 민간인 학살 기록이 남아 있음.",
+    "description_html": "<p>세부 서사를 여기에 입력.</p>",
+    "sources": ["향토문화대전 동삼동 미니공원 항목"]
+  },
+  {
+    "name": "영주동 부산터널 위 야산",
+    "slug": "yeongju-tunnel-hill",
+    "district": "중구 영주동",
+    "category": "산악",
+    "tags": [],
+    "coords": [35.1135, 129.0344],
+    "summary": "세부 서사를 여기에 입력.",
+    "description_html": "<p>세부 서사를 여기에 입력.</p>",
+    "sources": []
+  },
+  {
+    "name": "오륙도 인근 해상",
+    "slug": "oryukdo-sea",
+    "district": "남구 용호동",
+    "category": "해상",
+    "tags": ["해상 수장"],
+    "coords": [35.1015, 129.1189],
+    "summary": "국민보도연맹원·형무소 재소자 수장 사건 기록.",
+    "description_html": "<p>세부 서사를 여기에 입력.</p>",
+    "sources": ["향토문화대전 오륙도 인근 해상 항목", "진실화해위원회 보고서"]
+  },
+  {
+    "name": "청사포 인근",
+    "slug": "cheongsapo",
+    "district": "해운대구 청사포",
+    "category": "해안",
+    "tags": ["해상 수장"],
+    "coords": [35.1595, 129.1672],
+    "summary": "수장 관련 진술이 존재.",
+    "description_html": "<p>세부 서사를 여기에 입력.</p>",
+    "sources": ["부산 지역 보도연맹 관련 기록"]
+  },
+  {
+    "name": "해운대 장산계곡",
+    "slug": "jangsan-valley",
+    "district": "해운대구",
+    "category": "산악 계곡",
+    "tags": ["형무소 연계"],
+    "coords": [35.1987, 129.1651],
+    "summary": "부산형무소 수감자와 예비검속자 집단 총살 보고.",
+    "description_html": "<p>세부 서사를 여기에 입력.</p>",
+    "sources": ["진실·화해위원회 보고서"]
+  },
+  {
+    "name": "반송동 운봉 마을",
+    "slug": "unbong-bansong",
+    "district": "해운대구 반송동",
+    "category": "마을",
+    "tags": [],
+    "coords": [35.2322, 129.1567],
+    "summary": "세부 서사를 여기에 입력.",
+    "description_html": "<p>세부 서사를 여기에 입력.</p>",
+    "sources": []
+  },
+  {
+    "name": "동래베네스트 골프장 인근",
+    "slug": "dongnae-benest",
+    "district": "동래구/기장군 경계",
+    "category": "산악",
+    "tags": [],
+    "coords": [35.2543, 129.1034],
+    "summary": "세부 서사를 여기에 입력.",
+    "description_html": "<p>세부 서사를 여기에 입력.</p>",
+    "sources": []
+  },
+  {
+    "name": "오륜동 회동수원지",
+    "slug": "hoedong-reservoir",
+    "district": "금정구 오륜동",
+    "category": "수변",
+    "tags": [],
+    "coords": [35.2289, 129.1294],
+    "summary": "1950년 7~8월 보도연맹 관련 학살 기록.",
+    "description_html": "<p>세부 서사를 여기에 입력.</p>",
+    "sources": ["향토문화대전 회동 수원지 항목"]
+  }
+]

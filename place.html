@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title id="page-title">장소 상세</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<header class="site-header">
+  <a href="index.html" class="back">← 목록으로</a>
+  <h1 id="place-name">장소명</h1>
+  <p id="place-sub">분류 · 행정동</p>
+</header>
+
+<main class="container">
+  <div class="meta">
+    <div id="map" class="map" role="img" aria-label="지도"></div>
+    <ul id="facts" class="facts"></ul>
+  </div>
+  <article id="content" class="content"></article>
+
+  <section class="qr">
+    <h2>QR 공유</h2>
+    <p>아래 링크를 QR 코드로 인쇄·부착하면 현장에서 바로 열람할 수 있습니다.</p>
+    <code id="qr-link"></code>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <small>참조 출처와 사료는 본문 하단에 표기됩니다.</small>
+</footer>
+
+<script src="assets/js/place.js" defer></script>
+</body>
+</html>
